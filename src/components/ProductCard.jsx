@@ -1,5 +1,5 @@
-import React from "react";
-import Button from "../Shared/Button";
+/* eslint-disable react/prop-types */
+import Button from "./Shared/Button";
 
 const ProductCard = ({ data }) => {
   return (

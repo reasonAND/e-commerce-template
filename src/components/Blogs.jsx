@@ -1,10 +1,8 @@
-import React from "react";
-import Heading from "../Shared/Heading";
+import Heading from "./Shared/Heading";
 
-// import images
-import Img1 from "../../assets/blogs/blog-1.jpg";
-import Img2 from "../../assets/blogs/blog-2.jpg";
-import Img3 from "../../assets/blogs/blog-3.jpg";
+import Img1 from "../assets/blogs/blog-1.jpg" 
+import Img2 from "../assets/blogs/blog-2.jpg";
+import Img3 from "../assets/blogs/blog-3.jpg";
 
 const BlogData = [
   {

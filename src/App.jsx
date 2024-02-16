@@ -1,19 +1,19 @@
 import React from "react";
-import Navbar from "./components/Navbar/Navbar";
-import Hero from "./components/Hero/Hero";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
 import Category from "./components/Category/Category";
 import Category2 from "./components/Category/Category2";
-import Services from "./components/Services/Services";
-import Banner from "./components/Banner/Banner";
-import Partners from "./components/Partners/Partners.jsx";
+import Services from "./components/Services";
+import Banner from "./components/Banner";
+import Partners from "./components/Partners.jsx";
 
 import headphone from "./assets/hero/headphone.png";
 import smartwatch2 from "./assets/category/smartwatch2-removebg-preview.png";
 
-import Products from "./components/Products/Products";
-import Blogs from "./components/Blogs/Blogs";
-import Footer from "./components/Footer/Footer.jsx";
-import Popup from "./components/Popup/Popup.jsx";
+import Products from "./components/Products";
+import Blogs from "./components/Blogs";
+import Footer from "./components/Footer.jsx";
+import Popup from "./components/Popup.jsx";
 import AOS from "aos";
 import "aos/dist/aos.css";
 

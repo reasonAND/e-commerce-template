@@ -1,7 +1,7 @@
-import React from "react";
 import { IoCloseOutline } from "react-icons/io5";
-import Button from "../Shared/Button";
+import Button from "./Shared/Button";
 
+// eslint-disable-next-line react/prop-types
 const Popup = ({ orderPopup, handleOrderPopup }) => {
   return (
     <>
