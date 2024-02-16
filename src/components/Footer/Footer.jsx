@@ -36,10 +36,9 @@ const Footer = () => {
           <div className="py-8 px-4">
             <a
               href="#"
-              className="text-primary font-semibold tracking-widest text-2xl uppercase sm:text-3xl
-"
+              className="text-primary font-semibold tracking-widest text-2xl uppercase sm:text-3xl"
             >
-              Eshop
+              template-shop
             </a>
             <p className="text-gray-600 dark:text-white/70  lg:pr-24 pt-3">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores
@@ -50,8 +49,7 @@ const Footer = () => {
             </p>
             <a
               href="https://www.youtube.com/shorts/yzfoogsTatE"
-              className="inline-block bg-primary/90 text-white py-2 px-4 mt-4 text-sm rounded-full"
-            >
+              className="inline-block bg-primary/90 text-white py-2 px-4 mt-4 text-sm rounded-full">
               Visit our Website
             </a>
           </div>
